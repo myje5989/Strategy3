@@ -8,7 +8,7 @@ public class Test {
 		md.display();//Look like a mallard
 		md.performQuack();//Quack! Quack!
 		md.performFly();//I'm flying with wing
-		md.setQuackBehavior(new Quack());
+		md.setQuackBehavior(new Squack());
 		md.setFlybehavior(new FlyWithRock());
 		
 		System.out.println("----RubberDuck-----");
